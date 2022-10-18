@@ -1,0 +1,19 @@
+#users{
+    display: flex;
+    flex-direction: row;
+}
+#block{
+    background: cornflowerblue;
+    border: 1px solid darkgray;
+    text-align: center;
+    display: inline-block;
+}
+#btn{
+    margin: auto;
+    display: block;
+}
+#success{
+    display: none;
+    text-align: center;
+}
+
